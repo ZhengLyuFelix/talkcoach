@@ -1,0 +1,54 @@
+PODS:
+  - audio_session (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - just_audio (0.0.1):
+    - Flutter
+  - Leopard-iOS (2.0.1)
+  - leopard_flutter (2.0.2):
+    - Flutter
+    - Leopard-iOS (~> 2.0.1)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - record_darwin (1.0.0):
+    - Flutter
+
+DEPENDENCIES:
+  - audio_session (from `.symlinks/plugins/audio_session/ios`)
+  - Flutter (from `Flutter`)
+  - just_audio (from `.symlinks/plugins/just_audio/ios`)
+  - leopard_flutter (from `.symlinks/plugins/leopard_flutter/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - record_darwin (from `.symlinks/plugins/record_darwin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Leopard-iOS
+
+EXTERNAL SOURCES:
+  audio_session:
+    :path: ".symlinks/plugins/audio_session/ios"
+  Flutter:
+    :path: Flutter
+  just_audio:
+    :path: ".symlinks/plugins/just_audio/ios"
+  leopard_flutter:
+    :path: ".symlinks/plugins/leopard_flutter/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  record_darwin:
+    :path: ".symlinks/plugins/record_darwin/ios"
+
+SPEC CHECKSUMS:
+  audio_session: 088d2483ebd1dc43f51d253d4a1c517d9a2e7207
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  just_audio: baa7252489dbcf47a4c7cc9ca663e9661c99aafa
+  Leopard-iOS: 8c94dcf886800b4ed361c1c6af763780ef16f722
+  leopard_flutter: 78d5853a193dc53db202fa225cd43c43d51fb2c9
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  record_darwin: 3b1a8e7d5c0cbf45ad6165b4d83a6ca643d929c3
+
+PODFILE CHECKSUM: 2f8d333ded6a2ae95221b60ab22b92340a3f0fd5
+
+COCOAPODS: 1.15.2
